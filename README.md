@@ -1,3 +1,5 @@
+<img width="1302" height="591" alt="E-Commerce dashboard" src="https://github.com/user-attachments/assets/c1510830-7a15-422d-bc1a-74a5e1a807d8" />
+
 # E-COMMERCE ANALYSIS
 An online retail company is concerned about its customer churn rate. To retain customers, the management wants to proactively identify customers who are at a high risk of churning.
 
