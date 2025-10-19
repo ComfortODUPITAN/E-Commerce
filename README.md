@@ -1,7 +1,7 @@
 # E-COMMERCE ANALYSIS
 An online retail company is concerned about its customer churn rate. To retain customers, the management wants to proactively identify customers who are at a high risk of churning.
 
-Dataset: This dataset was downloaded from Kaggle. A standard version can be found here: [Click here]  ((https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction))
+Dataset: This dataset was downloaded from Kaggle. A standard version can be found here: [Click here]((https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction))
 
 ## RESEARCH QUESTIONS
 
