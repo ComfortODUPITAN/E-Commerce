@@ -36,21 +36,22 @@ Pie chart: Complaint vs No Complaint
 -	Found the average to fill the  blanks in columns C (Tenure),G (Preffereed mode of payment),I (Hours spend on app),Q (Order amount),R (Coupon used),S (Order count).
 
 ## INSIGHTS AND CONCLUSIONS
-1.	Customer Demographics:
+
+#### 1.	Customer Demographics:
 o	The customer base consists of 3,383 males (≈60%) and 2,246 females (≈40%), showing a slightly male-dominated audience.
 o	Most customers are married, suggesting that the e-commerce platform attracts family-oriented buyers with stable income patterns.
-2.	Payment Behavior:
+#### 2.	Payment Behavior:
 o	Debit cards and credit cards are the most preferred payment modes, with debit cards leading in total transaction volume.
 o	E-wallets and UPI are gaining traction, especially among tech-savvy customers, reflecting growing digital adoption.
 o	The highest cashback amount is also linked to debit card transactions, showing that cashback incentives may drive payment choice.
-3.	Customer Satisfaction & Retention:
+#### 3.	Customer Satisfaction & Retention:
 o	Satisfaction levels show a clear trend: higher satisfaction correlates with lower churn and higher repeat purchases.
 o	Customers who raised complaints represent only 28.49%, but their churn tendency is significantly higher than those who didn’t complain.
 o	Churn rate decreases progressively as satisfaction scores rise — proving the importance of after-sales service and customer engagement.
-4.	Order and Coupon Trends:
+#### 4.	Order and Coupon Trends:
 o	The average coupon usage (1.72) indicates moderate engagement with promotional campaigns.
 o	A higher number of coupon users tends to correspond with increased cashback rewards and order amount hikes, showing that discounts drive retention and sales growth.
-5.	Product Preferences:
+#### 5.	Product Preferences:
 o	Laptops & Accessories and Mobile Phones dominate preferred categories, attracting the largest share of high-spending customers.
 o	Satisfaction is highest in these tech-related categories, suggesting customers find consistent value and reliability there.
 
@@ -87,6 +88,8 @@ Incentives (cashbacks/coupons) directly boost order count and spending growth.
 
 ## CONCLUSION
 
-The dashboard successfully visualizes customer demographics, behavior, and satisfaction trends. It highlights that payment convenience, cashback rewards, and positive experiences significantly drive retention and loyalty. Strengthening complaint handling and personalizing promotions could further enhance customer satisfaction and reduce churn.
+The dashboard successfully visualizes customer demographics, behavior, and satisfaction trends. 
+It highlights that payment convenience, cashback rewards, and positive experiences significantly drive retention and loyalty. 
+Strengthening complaint handling and personalizing promotions could further enhance customer satisfaction and reduce churn.
 
 
