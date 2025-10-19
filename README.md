@@ -10,25 +10,25 @@ Dataset: This dataset was downloaded from Kaggle. A standard version can be foun
 ### Section 1: Customer Overview
 •	KPIs: Total Customers, Average Tenure, % Churned, Average Satisfaction
 •	Visuals:
-o	Pie chart: Customers by Gender
-o	Column: Marital Status by Count
+Pie chart: Customers by Gender
+Column: Marital Status by Count
 
 ### Section 2: Sales & Payment Insights
 •	KPIs: Most Used Payment Mode, Avg. Cashback, Avg. Order Amount Increase
 •	Visuals:
-o	Bar chart: Payment Mode vs CashbackAmount
-o	Column: Payment Mode vs CouponUsed
+Bar chart: Payment Mode vs CashbackAmount
+Column: Payment Mode vs CouponUsed
 
 ### Section 3: Product & Satisfaction
 •	KPIs: Highest-Rated Category, Avg. Satisfaction
 •	Visuals:
-o	Column chart: PreferedOrderCat vs SatisfactionScore
+Column chart: PreferedOrderCat vs SatisfactionScore
 
 ### Section 4: Retention & Loyalty
 •	KPIs: % Churn, Avg. Tenure (Churned vs Retained), % with Complaints
 •	Visuals:
-o	Line/Bar combo: Satisfaction vs Churn
-o	Pie chart: Complaint vs No Complaint
+Line/Bar combo: Satisfaction vs Churn
+Pie chart: Complaint vs No Complaint
 
 ## DATA CLEANING SUMMARY
 
