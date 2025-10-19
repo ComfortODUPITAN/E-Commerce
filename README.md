@@ -10,7 +10,8 @@ Dataset: This dataset was downloaded from Kaggle. A standard version can be foun
 •	Visuals:
 o	Pie chart: Customers by Gender
 o	Column: Marital Status by Count
-Section 2: Sales & Payment Insights
+
+### Section 2: Sales & Payment Insights
 •	KPIs: Most Used Payment Mode, Avg. Cashback, Avg. Order Amount Increase
 •	Visuals:
 o	Bar chart: Payment Mode vs CashbackAmount
