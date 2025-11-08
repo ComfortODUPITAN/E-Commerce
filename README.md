@@ -10,7 +10,7 @@ An online retail company is concerned about its customer churn rate. To retain c
 
 ## **RESEARCH QUESTIONS**
 
-###**Customer Overview**
+## #**Customer Overview**
 - KPIs: Total Customers, Average Tenure, % Churned, Average Satisfaction
 - Visuals:
 Pie chart: Customers by Gender
