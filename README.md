@@ -1,5 +1,8 @@
 <img width="1302" height="591" alt="E-Commerce dashboard" src="https://github.com/user-attachments/assets/c1510830-7a15-422d-bc1a-74a5e1a807d8" />
 
+<img width="986" height="548" alt="e-commerce" src="https://github.com/user-attachments/assets/a1af8e91-8a82-471b-a623-236d81be5e81" />
+
+
 # E-COMMERCE ANALYSIS
 An online retail company is concerned about its customer churn rate. To retain customers, the management wants to proactively identify customers who are at a high risk of churning.
 
@@ -8,25 +11,25 @@ Dataset: This dataset was downloaded from Kaggle. A standard version can be foun
 ## RESEARCH QUESTIONS
 
 ### Section 1: Customer Overview
-•	KPIs: Total Customers, Average Tenure, % Churned, Average Satisfaction
-•	Visuals:
+- KPIs: Total Customers, Average Tenure, % Churned, Average Satisfaction
+- Visuals:
 Pie chart: Customers by Gender
 Column: Marital Status by Count
 
 ### Section 2: Sales & Payment Insights
-•	KPIs: Most Used Payment Mode, Avg. Cashback, Avg. Order Amount Increase
-•	Visuals:
+- KPIs: Most Used Payment Mode, Avg. Cashback, Avg. Order Amount Increase
+- Visuals:
 Bar chart: Payment Mode vs CashbackAmount
 Column: Payment Mode vs CouponUsed
 
 ### Section 3: Product & Satisfaction
-•	KPIs: Highest-Rated Category, Avg. Satisfaction
-•	Visuals:
+- KPIs: Highest-Rated Category, Avg. Satisfaction
+- Visuals:
 Column chart: PreferedOrderCat vs SatisfactionScore
 
 ### Section 4: Retention & Loyalty
-•	KPIs: % Churn, Avg. Tenure (Churned vs Retained), % with Complaints
-•	Visuals:
+- KPIs: % Churn, Avg. Tenure (Churned vs Retained), % with Complaints
+- Visuals:
 Line/Bar combo: Satisfaction vs Churn
 Pie chart: Complaint vs No Complaint
 
@@ -35,25 +38,31 @@ Pie chart: Complaint vs No Complaint
 -	Searched for blanks
 -	Found the average to fill the  blanks in columns C (Tenure),G (Preffereed mode of payment),I (Hours spend on app),Q (Order amount),R (Coupon used),S (Order count).
 
+## TOOLS
+- MS-Excel
+- PowerBI
+- Power query
+- Figma for wireframe
+
 ## INSIGHTS AND CONCLUSIONS
 
 #### 1.	Customer Demographics:
-o	The customer base consists of 3,383 males (≈60%) and 2,246 females (≈40%), showing a slightly male-dominated audience.
-o	Most customers are married, suggesting that the e-commerce platform attracts family-oriented buyers with stable income patterns.
+- The customer base consists of 3,383 males (≈60%) and 2,246 females (≈40%), showing a slightly male-dominated audience.
+- Most customers are married, suggesting that the e-commerce platform attracts family-oriented buyers with stable income patterns.
 #### 2.	Payment Behavior:
-o	Debit cards and credit cards are the most preferred payment modes, with debit cards leading in total transaction volume.
-o	E-wallets and UPI are gaining traction, especially among tech-savvy customers, reflecting growing digital adoption.
-o	The highest cashback amount is also linked to debit card transactions, showing that cashback incentives may drive payment choice.
+- Debit cards and credit cards are the most preferred payment modes, with debit cards leading in total transaction volume.
+- E-wallets and UPI are gaining traction, especially among tech-savvy customers, reflecting growing digital adoption.
+- The highest cashback amount is also linked to debit card transactions, showing that cashback incentives may drive payment choice.
 #### 3.	Customer Satisfaction & Retention:
-o	Satisfaction levels show a clear trend: higher satisfaction correlates with lower churn and higher repeat purchases.
-o	Customers who raised complaints represent only 28.49%, but their churn tendency is significantly higher than those who didn’t complain.
-o	Churn rate decreases progressively as satisfaction scores rise — proving the importance of after-sales service and customer engagement.
+- Satisfaction levels show a clear trend: higher satisfaction correlates with lower churn and higher repeat purchases.
+- Customers who raised complaints represent only 28.49%, but their churn tendency is significantly higher than those who didn’t complain.
+- Churn rate decreases progressively as satisfaction scores rise — proving the importance of after-sales service and customer engagement.
 #### 4.	Order and Coupon Trends:
-o	The average coupon usage (1.72) indicates moderate engagement with promotional campaigns.
-o	A higher number of coupon users tends to correspond with increased cashback rewards and order amount hikes, showing that discounts drive retention and sales growth.
+- The average coupon usage (1.72) indicates moderate engagement with promotional campaigns.
+- A higher number of coupon users tends to correspond with increased cashback rewards and order amount hikes, showing that discounts drive retention and sales growth.
 #### 5.	Product Preferences:
-o	Laptops & Accessories and Mobile Phones dominate preferred categories, attracting the largest share of high-spending customers.
-o	Satisfaction is highest in these tech-related categories, suggesting customers find consistent value and reliability there.
+- Laptops & Accessories and Mobile Phones dominate preferred categories, attracting the largest share of high-spending customers.
+- Satisfaction is highest in these tech-related categories, suggesting customers find consistent value and reliability there.
 
 #### How These Findings Answer the Research Questions
 
@@ -88,8 +97,8 @@ Incentives (cashbacks/coupons) directly boost order count and spending growth.
 
 ## CONCLUSION
 
-The dashboard successfully visualizes customer demographics, behavior, and satisfaction trends. 
-It highlights that payment convenience, cashback rewards, and positive experiences significantly drive retention and loyalty. 
-Strengthening complaint handling and personalizing promotions could further enhance customer satisfaction and reduce churn.
+- The dashboards successfully visualize customer demographics, behavior, and satisfaction trends.
+- They highlight that payment convenience, cashback rewards, and positive experiences significantly drive retention and loyalty.
+- Strengthening complaint handling and personalizing promotions could further enhance customer satisfaction and reduce churn.
 
 
