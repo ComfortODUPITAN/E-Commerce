@@ -3,14 +3,14 @@
 <img width="986" height="548" alt="e-commerce" src="https://github.com/user-attachments/assets/a1af8e91-8a82-471b-a623-236d81be5e81" />
 
 
-**# E-COMMERCE ANALYSIS**
+# **E-COMMERCE ANALYSIS**
 An online retail company is concerned about its customer churn rate. To retain customers, the management wants to proactively identify customers who are at a high risk of churning.
 
 **Dataset:** This dataset was downloaded from Kaggle. A standard version can be found here: [Click here](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
 
 ## **RESEARCH QUESTIONS**
 
-## #**Customer Overview**
+### **Customer Overview**
 - KPIs: Total Customers, Average Tenure, % Churned, Average Satisfaction
 - Visuals:
 Pie chart: Customers by Gender
@@ -27,7 +27,7 @@ Column: Payment Mode vs CouponUsed
 - Visuals:
 Column chart: PreferedOrderCat vs SatisfactionScore
 
-###**Retention & Loyalty**
+### **Retention & Loyalty**
 - KPIs: % Churn, Avg. Tenure (Churned vs Retained), % with Complaints
 - Visuals:
 Line/Bar combo: Satisfaction vs Churn
@@ -81,14 +81,14 @@ Laptop & Accessories and Mobile Phones lead, showing customer tech preference
 5.	How do coupons and cashback influence engagement?
 Incentives (cashbacks/coupons) directly boost order count and spending growth.
 
-##** LIMITATIONS AND FUTURE WORK**
+## ** LIMITATIONS AND FUTURE WORK**
 ### **Challenges or Constraints**
 1.	The dataset lacks temporal (date/time) variables, limiting analysis of seasonal or monthly purchasing patterns.
 2.	Geographical details are limited to city tiers : no precise region or country identifiers for market segmentation.
 3.	Customer feedback content (e.g., text reviews) is not included, which could add richer insights into satisfaction drivers.
 4.	The analysis is static: future integration with Power BI or Python could introduce dynamic trend tracking and forecasting.
 
-###** Suggestions for Further Exploration**
+### ** Suggestions for Further Exploration**
 1.	Add Time Dimension: Incorporate transaction date/time data to study purchase frequency and seasonal spikes.
 2.	Customer Segmentation: Use clustering (in Power BI or R) to identify distinct customer personas (e.g., high-value vs. deal-seeking).
 3.	Predictive Modeling: Build a churn prediction model using satisfaction, complaint history, and tenure.
