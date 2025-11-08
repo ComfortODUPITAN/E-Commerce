@@ -81,14 +81,14 @@ Laptop & Accessories and Mobile Phones lead, showing customer tech preference
 5.	How do coupons and cashback influence engagement?
 Incentives (cashbacks/coupons) directly boost order count and spending growth.
 
-## ** LIMITATIONS AND FUTURE WORK**
+## **LIMITATIONS AND FUTURE WORK**
 ### **Challenges or Constraints**
 1.	The dataset lacks temporal (date/time) variables, limiting analysis of seasonal or monthly purchasing patterns.
 2.	Geographical details are limited to city tiers : no precise region or country identifiers for market segmentation.
 3.	Customer feedback content (e.g., text reviews) is not included, which could add richer insights into satisfaction drivers.
 4.	The analysis is static: future integration with Power BI or Python could introduce dynamic trend tracking and forecasting.
 
-### ** Suggestions for Further Exploration**
+### **Suggestions for Further Exploration**
 1.	Add Time Dimension: Incorporate transaction date/time data to study purchase frequency and seasonal spikes.
 2.	Customer Segmentation: Use clustering (in Power BI or R) to identify distinct customer personas (e.g., high-value vs. deal-seeking).
 3.	Predictive Modeling: Build a churn prediction model using satisfaction, complaint history, and tenure.
