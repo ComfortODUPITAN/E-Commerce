@@ -101,7 +101,7 @@ Incentives (cashbacks/coupons) directly boost order count and spending growth.
 - They highlight that payment convenience, cashback rewards, and positive experiences significantly drive retention and loyalty.
 - Strengthening complaint handling and personalizing promotions could further enhance customer satisfaction and reduce churn.
 
-
+https://github.com/user-attachments/assets/2e9f0c7d-5184-4245-9a97-37808c1662a4
 _interactive dashboard_
 
 
